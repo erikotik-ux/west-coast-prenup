@@ -4,6 +4,9 @@ A production build of the Figma frame **“West Coast Prenup - V2 - Desktop”**
 static site: semantic HTML5, modern CSS, and a small amount of vanilla JavaScript. No build step,
 no dependencies, no external network requests at runtime.
 
+**Live:** <https://west-coast-prenup.vercel.app>
+**Repo:** <https://github.com/erikotik-ux/west-coast-prenup>
+
 ## Running locally
 
 Any static file server works. From this directory:
